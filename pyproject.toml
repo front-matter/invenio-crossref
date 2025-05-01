@@ -7,7 +7,14 @@ requires-python = ">=3.9,<4.0"
 readme = "README.md"
 license = "MIT"
 keywords = ["science", "metadata", "invenio", "crossref", "doi"]
-dependencies = ["commonmeta-py>=0.100,<1.0"]
+dependencies = [
+    "commonmeta-py>=0.100,<1.0",
+    "idutils>=1.4.2",
+    "jsonschema>=4.23.0",
+    "lxml>=5.4.0",
+    "pytest-invenio>=3.3.0",
+    "requests>=2.32.3",
+]
 
 [project.urls]
 Repository = "https://github.com/front-matter/invenio-crossref"

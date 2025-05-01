@@ -2,9 +2,9 @@
 #
 # This file is part of DataCite.
 #
-# Copyright (C) 2015 CERN.
+# Copyright (C) 2015 Front Matter.
 #
-# DataCite is free software; you can redistribute it and/or modify it
+# Invenio-Crossref is free software; you can redistribute it and/or modify it
 # under the terms of the Revised BSD License; see LICENSE file for
 # more details.
 
